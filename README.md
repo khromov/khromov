@@ -1,14 +1,14 @@
-### 👋 Hello, I'm Stanislav Khromov
+### 👋 Hello, my name is Stanislav Khromov
 
 I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 
-- 🔭 Working as a software engineer at Schibsted Media Group
-- 👨‍💻️ Working mostly with JavaScript / TypeScript, React, Next.js as well as PHP, WordPress and Laravel.
+- 🔭 Working as a software engineer at Schibsted Media Group.
+- 👨‍💻️ Working with JavaScript / TypeScript, React, Next.js as well as modern PHP, WordPress and Laravel.
 - 👪 Co-organizer of WordCamp Stockholm and the [WordPress Stockholm Meetup group](https://www.meetup.com/WordPress-Stockholm/).
 - 🌱 Currently learning about ☁️ Serverless computing, 🐳 Docker and 🔶 Amazon Web Services.
-- 📫 Reach me at the email in my GitHub profile.
+- 📫 Reach me via the email in my GitHub profile.
 
-📕 **Latest Blog Posts**
+📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [A case for the mediocre developer](https://khromov.se/a-case-for-the-mediocre-developer/)
