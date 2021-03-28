@@ -11,9 +11,9 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Leaflet with SvelteKit](https://khromov.se/using-leaflet-with-sveltekit/)
 - [A case for the mediocre developer](https://khromov.se/a-case-for-the-mediocre-developer/)
 - [Choosing the right WordPress plugin](https://khromov.se/choosing-right-wordpress-plugin/)
-- [WordPress needs another long term support version](https://khromov.se/wordpress-needs-another-long-term-support-version/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 **Links**
