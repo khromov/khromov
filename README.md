@@ -11,9 +11,9 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Code-sharing patterns for Next.js](https://khromov.se/code-sharing-patterns-for-next-js/)
 - [Using Leaflet with SvelteKit](https://khromov.se/using-leaflet-with-sveltekit/)
 - [A case for the mediocre developer](https://khromov.se/a-case-for-the-mediocre-developer/)
-- [Choosing the right WordPress plugin](https://khromov.se/choosing-right-wordpress-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 **Links**
