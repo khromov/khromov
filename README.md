@@ -11,9 +11,9 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling errors with Error Boundaries in Svelte](https://khromov.se/error-boundaries-in-svelte/)
 - [Code reusability patterns for Next.js](https://khromov.se/code-sharing-patterns-for-next-js/)
 - [Using Leaflet with SvelteKit](https://khromov.se/using-leaflet-with-sveltekit/)
-- [A case for the mediocre developer](https://khromov.se/a-case-for-the-mediocre-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 **Links**
