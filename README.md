@@ -11,9 +11,9 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your Capacitor Android app bundle using GitHub Actions](https://khromov.se/build-your-capacitor-android-app-bundle-using-github-actions/)
 - [Handling errors with Error Boundaries in Svelte](https://khromov.se/error-boundaries-in-svelte/)
 - [Code reusability patterns for Next.js](https://khromov.se/code-sharing-patterns-for-next-js/)
-- [Using Leaflet with SvelteKit](https://khromov.se/using-leaflet-with-sveltekit/)
 <!-- BLOG-POST-LIST:END -->
 
 🌱 **Recent courses I've taken**
