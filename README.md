@@ -5,7 +5,7 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 - 🔭 Working as a software engineer at Schibsted Media Group.
 - 👨‍💻️ Working with JavaScript / TypeScript, React, Next.js, Svelte as well as modern PHP, WordPress and Laravel.
 - 👪 Co-organizer of WordCamp Stockholm and the [WordPress Stockholm Meetup group](https://www.meetup.com/WordPress-Stockholm/).
-- 🌱 Currently learning about ☁️ Serverless, 🔶 Amazon Web Services and 🔴 Svelte.
+- 🌱 Currently learning about ☁️ Serverless architecture, 🔶 Amazon Web Services and 🔴 Svelte.
 - 📫 Reach me via the email in my GitHub profile.
 
 📕 **Latest blog posts**
