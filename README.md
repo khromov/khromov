@@ -11,9 +11,9 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [How I published a gratitude journaling app for iOS and Android using SvelteKit and Capacitor](https://khromov.se/how-i-published-a-gratitude-journaling-app-for-ios-and-android-using-sveltekit-and-capacitor/)
+- [Build your Capacitor iOS app bundle using GitHub Actions](https://khromov.se/build-your-capacitor-ios-app-bundle-using-github-actions/)
 - [Adding locally hosted Google fonts to your SvelteKit project](https://khromov.se/adding-locally-hosted-google-fonts-to-your-sveltekit-project/)
-- [Build your Capacitor Android app bundle using GitHub Actions](https://khromov.se/build-your-capacitor-android-app-bundle-using-github-actions/)
-- [Handling errors with Error Boundaries in Svelte](https://khromov.se/error-boundaries-in-svelte/)
 <!-- BLOG-POST-LIST:END -->
 
 🌱 **Recent courses I've taken**
