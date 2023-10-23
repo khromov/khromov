@@ -21,6 +21,7 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 
 🌱 **Recent courses I've taken**
 
+- [Capacitor Crash Course - Ionic Academy](https://ionicacademy.com/)
 - [SvelteKit - LevelUpTuts](https://leveluptutorials.com/tutorials/svelte-kit/)
 - [CSS for JavaScript Developers](https://css-for-js.dev/)
 
