@@ -12,11 +12,11 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a smart kitchen display using a Raspberry Pi](https://khromov.se/building-a-smart-kitchen-display-using-a-raspberry-pi/)
 - [The Comprehensive Guide to Locals in SvelteKit](https://khromov.se/the-comprehensive-guide-to-locals-in-sveltekit/)
 - [The Power of Constraints: Why Less is More in Social Media](https://khromov.se/the-power-of-constraints-why-less-is-more-in-social-media/)
 - [The missing guide to understanding adapter-static in SvelteKit](https://khromov.se/the-missing-guide-to-understanding-adapter-static-in-sveltekit/)
 - [Building a privacy-friendly, self-hosted application architecture with SvelteKit](https://khromov.se/building-a-privacy-friendly-self-hosted-application-architecture-with-sveltekit/)
-- [How I published a gratitude journaling app for iOS and Android using SvelteKit and Capacitor](https://khromov.se/how-i-published-a-gratitude-journaling-app-for-ios-and-android-using-sveltekit-and-capacitor/)
 <!-- BLOG-POST-LIST:END -->
 
 🌱 **Recent courses I've taken**
