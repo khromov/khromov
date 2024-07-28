@@ -28,5 +28,5 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 🔗 **Links**
 
 - [Website](https://khromov.se/)
-- [Snippets blog](https://snippets.khromov.se/)
-- [Twitter](https://twitter.com/khromov/)
+- [YouTube channel](https://www.youtube.com/@StanislavKhromov)
+- Contact details: At the bottom of my website!
