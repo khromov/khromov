@@ -12,11 +12,11 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [How Chain of Thought Prompting Boosts LLM Performance](https://khromov.se/how-chain-of-thought-prompting-boosts-llm-performance/)
 - [Dropbox keeps threatening to delete my files](https://khromov.se/dropbox-keeps-threatening-to-delete-my-files/)
 - [Svelte 5 brings up to 50% bundle size decrease for existing Svelte 4 apps](https://khromov.se/svelte-5-brings-up-to-50-bundle-size-decrease-for-existing-svelte-4-apps/)
 - [Dockerizing Your SvelteKit Applications: A Practical Guide](https://khromov.se/dockerizing-your-sveltekit-applications-a-practical-guide/)
 - [Is Web Development About to Change?](https://khromov.se/is-web-development-about-to-change/)
-- [Leveraging LLMs for Large-Scale Software Development](https://khromov.se/leveraging-llms-for-large-scale-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 🌱 **Recent courses I've taken**
