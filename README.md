@@ -12,7 +12,7 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize JavaScript Bundle Sizes in SvelteKit by using server load functions](https://khromov.se/optimize-javascript-bundle-sizes-in-sveltekit-by-using-server-load-functions/)
+- [Reduce JavaScript Bundle Sizes in SvelteKit by using server load functions](https://khromov.se/optimize-javascript-bundle-sizes-in-sveltekit-by-using-server-load-functions/)
 - [Better AI LLM assistance for Svelte 5 and SvelteKit](https://khromov.se/getting-better-ai-llm-assistance-for-svelte-5-and-sveltekit/)
 - [SvelteKit Streaming: The Complete Guide](https://khromov.se/sveltekit-streaming-the-complete-guide/)
 - [How Chain of Thought Prompting Boosts LLM Performance](https://khromov.se/how-chain-of-thought-prompting-boosts-llm-performance/)
