@@ -12,11 +12,11 @@ I am a full-stack web developer from 🇸🇪 Stockholm, Sweden.
 📕 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Building portable web apps with SvelteKit’s new single-file  bundle strategy and hash router](https://khromov.se/building-portable-web-apps-with-sveltekits-new-single-file-bundle-strategy-and-hash-router/)
 - [How to fix performance issues in your Svelte application using svelte-render-scan](https://khromov.se/how-to-fix-performance-issues-in-your-svelte-application-using-svelte-render-scan/)
 - [Claude 3.7 Sonnet vs Gemini 2.5 Pro: Which AI Is Better for Coding?](https://khromov.se/claude-3-7-sonnet-vs-gemini-2-5-pro-which-ai-is-better-for-coding/)
 - [Five Tips for Better AI Programming with Large Language Models](https://khromov.se/five-tips-for-better-ai-programming-with-large-language-models/)
 - [Reduce JavaScript Bundle Sizes in SvelteKit by using server load functions](https://khromov.se/optimize-javascript-bundle-sizes-in-sveltekit-by-using-server-load-functions/)
-- [Better AI LLM assistance for Svelte 5 and SvelteKit](https://khromov.se/getting-better-ai-llm-assistance-for-svelte-5-and-sveltekit/)
 <!-- BLOG-POST-LIST:END -->
 
 🌱 **Recent courses I've taken**
